@@ -7,11 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		B33949881CF15EC400DCE547 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B33949871CF15EC400DCE547 /* main.cpp */; };
+		B339499B1CF1707D00DCE547 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B339499A1CF1707D00DCE547 /* main.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
-		B33949821CF15EC400DCE547 /* CopyFiles */ = {
+		B33949951CF1707D00DCE547 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = /usr/share/man/man1/;
@@ -23,12 +23,12 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		B33949841CF15EC400DCE547 /* Circle_Detection_PH */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Circle_Detection_PH; sourceTree = BUILT_PRODUCTS_DIR; };
-		B33949871CF15EC400DCE547 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		B33949971CF1707D00DCE547 /* Cirecle-Detection-PHCD */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Cirecle-Detection-PHCD"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B339499A1CF1707D00DCE547 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		B33949811CF15EC400DCE547 /* Frameworks */ = {
+		B33949941CF1707D00DCE547 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -38,94 +38,94 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		B339497B1CF15EC400DCE547 = {
+		B339498E1CF1707D00DCE547 = {
 			isa = PBXGroup;
 			children = (
-				B33949861CF15EC400DCE547 /* Circle_Detection_PH */,
-				B33949851CF15EC400DCE547 /* Products */,
+				B33949991CF1707D00DCE547 /* Cirecle-Detection-PHCD */,
+				B33949981CF1707D00DCE547 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		B33949851CF15EC400DCE547 /* Products */ = {
+		B33949981CF1707D00DCE547 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				B33949841CF15EC400DCE547 /* Circle_Detection_PH */,
+				B33949971CF1707D00DCE547 /* Cirecle-Detection-PHCD */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		B33949861CF15EC400DCE547 /* Circle_Detection_PH */ = {
+		B33949991CF1707D00DCE547 /* Cirecle-Detection-PHCD */ = {
 			isa = PBXGroup;
 			children = (
-				B33949871CF15EC400DCE547 /* main.cpp */,
+				B339499A1CF1707D00DCE547 /* main.cpp */,
 			);
-			path = Circle_Detection_PH;
+			path = "Cirecle-Detection-PHCD";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		B33949831CF15EC400DCE547 /* Circle_Detection_PH */ = {
+		B33949961CF1707D00DCE547 /* Cirecle-Detection-PHCD */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B339498B1CF15EC400DCE547 /* Build configuration list for PBXNativeTarget "Circle_Detection_PH" */;
+			buildConfigurationList = B339499E1CF1707D00DCE547 /* Build configuration list for PBXNativeTarget "Cirecle-Detection-PHCD" */;
 			buildPhases = (
-				B33949801CF15EC400DCE547 /* Sources */,
-				B33949811CF15EC400DCE547 /* Frameworks */,
-				B33949821CF15EC400DCE547 /* CopyFiles */,
+				B33949931CF1707D00DCE547 /* Sources */,
+				B33949941CF1707D00DCE547 /* Frameworks */,
+				B33949951CF1707D00DCE547 /* CopyFiles */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = Circle_Detection_PH;
-			productName = Circle_Detection_PH;
-			productReference = B33949841CF15EC400DCE547 /* Circle_Detection_PH */;
+			name = "Cirecle-Detection-PHCD";
+			productName = "Cirecle-Detection-PHCD";
+			productReference = B33949971CF1707D00DCE547 /* Cirecle-Detection-PHCD */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		B339497C1CF15EC400DCE547 /* Project object */ = {
+		B339498F1CF1707D00DCE547 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0730;
 				ORGANIZATIONNAME = bochengw.twbbs.org;
 				TargetAttributes = {
-					B33949831CF15EC400DCE547 = {
+					B33949961CF1707D00DCE547 = {
 						CreatedOnToolsVersion = 7.3.1;
 					};
 				};
 			};
-			buildConfigurationList = B339497F1CF15EC400DCE547 /* Build configuration list for PBXProject "Circle_Detection_PH" */;
+			buildConfigurationList = B33949921CF1707D00DCE547 /* Build configuration list for PBXProject "Cirecle-Detection-PHCD" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 			);
-			mainGroup = B339497B1CF15EC400DCE547;
-			productRefGroup = B33949851CF15EC400DCE547 /* Products */;
+			mainGroup = B339498E1CF1707D00DCE547;
+			productRefGroup = B33949981CF1707D00DCE547 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				B33949831CF15EC400DCE547 /* Circle_Detection_PH */,
+				B33949961CF1707D00DCE547 /* Cirecle-Detection-PHCD */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXSourcesBuildPhase section */
-		B33949801CF15EC400DCE547 /* Sources */ = {
+		B33949931CF1707D00DCE547 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B33949881CF15EC400DCE547 /* main.cpp in Sources */,
+				B339499B1CF1707D00DCE547 /* main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		B33949891CF15EC400DCE547 /* Debug */ = {
+		B339499C1CF1707D00DCE547 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -169,7 +169,7 @@
 			};
 			name = Debug;
 		};
-		B339498A1CF15EC400DCE547 /* Release */ = {
+		B339499D1CF1707D00DCE547 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -206,7 +206,7 @@
 			};
 			name = Release;
 		};
-		B339498C1CF15EC400DCE547 /* Debug */ = {
+		B339499F1CF1707D00DCE547 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				HEADER_SEARCH_PATHS = /usr/local/include;
@@ -234,7 +234,7 @@
 			};
 			name = Debug;
 		};
-		B339498D1CF15EC400DCE547 /* Release */ = {
+		B33949A01CF1707D00DCE547 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				HEADER_SEARCH_PATHS = /usr/local/include;
@@ -265,24 +265,24 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		B339497F1CF15EC400DCE547 /* Build configuration list for PBXProject "Circle_Detection_PH" */ = {
+		B33949921CF1707D00DCE547 /* Build configuration list for PBXProject "Cirecle-Detection-PHCD" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				B33949891CF15EC400DCE547 /* Debug */,
-				B339498A1CF15EC400DCE547 /* Release */,
+				B339499C1CF1707D00DCE547 /* Debug */,
+				B339499D1CF1707D00DCE547 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B339498B1CF15EC400DCE547 /* Build configuration list for PBXNativeTarget "Circle_Detection_PH" */ = {
+		B339499E1CF1707D00DCE547 /* Build configuration list for PBXNativeTarget "Cirecle-Detection-PHCD" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				B339498C1CF15EC400DCE547 /* Debug */,
-				B339498D1CF15EC400DCE547 /* Release */,
+				B339499F1CF1707D00DCE547 /* Debug */,
+				B33949A01CF1707D00DCE547 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = B339497C1CF15EC400DCE547 /* Project object */;
+	rootObject = B339498F1CF1707D00DCE547 /* Project object */;
 }

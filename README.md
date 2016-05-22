@@ -7,7 +7,7 @@ Circle Dectetion with PHCD method in C++ on Xcode
 # What is this repository for? ###
 
 * Quick summary: Circle Dectetion with PHCD method implemented by OpenCV
-* Version 1.0.1
+* Version 1.0.2
 
 # How do I get set up? ###
 

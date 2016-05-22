@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Circle_Detection_PH.xcodeproj">
+      location = "self:Cirecle-Detection-PHCD.xcodeproj">
    </FileRef>
 </Workspace>

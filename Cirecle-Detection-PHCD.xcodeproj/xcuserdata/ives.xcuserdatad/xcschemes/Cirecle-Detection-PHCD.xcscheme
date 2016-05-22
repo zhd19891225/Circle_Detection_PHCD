@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "B33949831CF15EC400DCE547"
-               BuildableName = "Circle_Detection_PH"
-               BlueprintName = "Circle_Detection_PH"
-               ReferencedContainer = "container:Circle_Detection_PH.xcodeproj">
+               BlueprintIdentifier = "B33949961CF1707D00DCE547"
+               BuildableName = "Cirecle-Detection-PHCD"
+               BlueprintName = "Cirecle-Detection-PHCD"
+               ReferencedContainer = "container:Cirecle-Detection-PHCD.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "B33949831CF15EC400DCE547"
-            BuildableName = "Circle_Detection_PH"
-            BlueprintName = "Circle_Detection_PH"
-            ReferencedContainer = "container:Circle_Detection_PH.xcodeproj">
+            BlueprintIdentifier = "B33949961CF1707D00DCE547"
+            BuildableName = "Cirecle-Detection-PHCD"
+            BlueprintName = "Cirecle-Detection-PHCD"
+            ReferencedContainer = "container:Cirecle-Detection-PHCD.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -47,7 +47,7 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       launchStyle = "0"
       useCustomWorkingDirectory = "YES"
-      customWorkingDirectory = "/Users/ives/Documents/Temp Working/Circle_Detection_PH"
+      customWorkingDirectory = "/Users/ives/Documents/Temp Working/Cirecle-Detection-PHCD"
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
@@ -56,10 +56,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "B33949831CF15EC400DCE547"
-            BuildableName = "Circle_Detection_PH"
-            BlueprintName = "Circle_Detection_PH"
-            ReferencedContainer = "container:Circle_Detection_PH.xcodeproj">
+            BlueprintIdentifier = "B33949961CF1707D00DCE547"
+            BuildableName = "Cirecle-Detection-PHCD"
+            BlueprintName = "Cirecle-Detection-PHCD"
+            ReferencedContainer = "container:Cirecle-Detection-PHCD.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,10 +75,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "B33949831CF15EC400DCE547"
-            BuildableName = "Circle_Detection_PH"
-            BlueprintName = "Circle_Detection_PH"
-            ReferencedContainer = "container:Circle_Detection_PH.xcodeproj">
+            BlueprintIdentifier = "B33949961CF1707D00DCE547"
+            BuildableName = "Cirecle-Detection-PHCD"
+            BlueprintName = "Cirecle-Detection-PHCD"
+            ReferencedContainer = "container:Cirecle-Detection-PHCD.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

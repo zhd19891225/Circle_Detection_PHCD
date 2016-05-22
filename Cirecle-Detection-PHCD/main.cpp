@@ -1,6 +1,6 @@
 //
 //  main.cpp
-//  Circle_Detection_PH
+//  Cirecle-Detection-PHCD
 //
 //  Created by Ives on 5/22/16.
 //  Copyright © 2016 bochengw.twbbs.org. All rights reserved.
